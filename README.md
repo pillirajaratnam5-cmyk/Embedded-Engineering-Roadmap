@@ -1575,11 +1575,8 @@ Description:  Developed a Bluetooth-based home automation system to remotely con
 Proteus: https://1drv.ms/u/c/cad2fa98a79ebebb/IQCvQT3t1ujxSaYG3x2hWRP8AVTnbup6qaVPpX_qs0_vdiI
 <img width="1297" height="977" alt="image" src="https://github.com/user-attachments/assets/55a3f2ad-974f-49ed-92a0-1a9efdc8aac3" />
 lcd declarations: https://1drv.ms/u/c/cad2fa98a79ebebb/IQC2kvLWv4Y0Q5i4WOeDltw3AfK9MT3JWqK_aIwb9FMVH3Q
- 
- main code:  https://1drv.ms/u/c/cad2fa98a79ebebb/IQAkQ-WE0S8zSrmjQkoSf5gIAWKQqPVdfdXaRKy5gbUZ2K4
-
+main code:  https://1drv.ms/u/c/cad2fa98a79ebebb/IQAkQ-WE0S8zSrmjQkoSf5gIAWKQqPVdfdXaRKy5gbUZ2K4
 delay: https://1drv.ms/u/c/cad2fa98a79ebebb/IQBPn6CEDRDgTKN_VrKSgVx0AZp71LVOr7hY84s1f-lXi_A
-
 hex file: https://1drv.ms/u/c/cad2fa98a79ebebb/IQDCkrVdToj5T5n4ASi9UBx7AQ-Oi_L7U3l2kLduT7mXiHY
 Execution:1) <img width="1290" height="969" alt="image" src="https://github.com/user-attachments/assets/f26df5c1-c3b8-4e55-8c8d-7524837c2aa0" />
 2)<img width="1290" height="968" alt="image" src="https://github.com/user-attachments/assets/e58c90b3-b10f-462c-9681-6916ecc4ac7a" />
