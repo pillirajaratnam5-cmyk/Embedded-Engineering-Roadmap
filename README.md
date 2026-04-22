@@ -1567,3 +1567,18 @@ Special thanks to my friends in the community of Iranian Embedded Engineers in T
 If you think that this roadmap can be improved in anyway or you know about some good learning resources that can be added here, please start an issue or a pull request. I’ll be maintaining and updating this repository frequently.
 
 The source file is created using [Microsoft Visio](https://office.com/visio) in `.vsdx` format and included in this repository for your contributions. If you do not have Microsoft Visio or you want to use free software, you can use [draw.io](https://draw.io) which can import and export `.vsdx` files.
+
+
+Embedded Projects:
+Title:Blueetooth Based Home Automation
+Description:  Developed a Bluetooth-based home automation system to remotely control appliances like LEDs and motors based on user inputs.  Programmed an LPC2129 microcontroller in Embedded C using Keil uVision to process UART signals, and simulated the hardware setup with an HC-05 module and L293D driver in Proteus.
+Proteus: https://1drv.ms/u/c/cad2fa98a79ebebb/IQCvQT3t1ujxSaYG3x2hWRP8AVTnbup6qaVPpX_qs0_vdiI
+<img width="1297" height="977" alt="image" src="https://github.com/user-attachments/assets/55a3f2ad-974f-49ed-92a0-1a9efdc8aac3" />
+lcd declarations: https://1drv.ms/u/c/cad2fa98a79ebebb/IQC2kvLWv4Y0Q5i4WOeDltw3AfK9MT3JWqK_aIwb9FMVH3Q
+main code:  https://1drv.ms/u/c/cad2fa98a79ebebb/IQAkQ-WE0S8zSrmjQkoSf5gIAWKQqPVdfdXaRKy5gbUZ2K4
+delay: https://1drv.ms/u/c/cad2fa98a79ebebb/IQBPn6CEDRDgTKN_VrKSgVx0AZp71LVOr7hY84s1f-lXi_A
+hex file: https://1drv.ms/u/c/cad2fa98a79ebebb/IQDCkrVdToj5T5n4ASi9UBx7AQ-Oi_L7U3l2kLduT7mXiHY
+Execution:1) <img width="1290" height="969" alt="image" src="https://github.com/user-attachments/assets/f26df5c1-c3b8-4e55-8c8d-7524837c2aa0" />
+2)<img width="1290" height="968" alt="image" src="https://github.com/user-attachments/assets/e58c90b3-b10f-462c-9681-6916ecc4ac7a" />
+3)<img width="1292" height="969" alt="image" src="https://github.com/user-attachments/assets/adc04cf1-cd80-4491-8238-af1b5ea3abe0" />
+4)<img width="1292" height="973" alt="image" src="https://github.com/user-attachments/assets/ca4c8539-5a6d-4df4-a96c-f83f9625e08a" />
